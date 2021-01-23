@@ -1,0 +1,7 @@
+>> jupyter notebook
+
+>> Selenium - $pip install selenium
+
+>> chromedriver - https://chromedriver.chromium.org/downloads
+
+*Contacts file should be in format of name:number:msg
